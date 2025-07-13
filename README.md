@@ -1,3 +1,4 @@
+
 #  🤖 Smart-Document-Research-Assistant
 
 
@@ -42,9 +43,11 @@ A GenAI-powered assistant that reads, understands, and interacts with documents 
 smart-doc-assistant/
 │
 ├── app.py # Main Streamlit app
+
 ├── api.env # Gemini API Key (ignored in Git)
 │
 ├── backend/
+
 │ ├── parser.py # Extract text from PDFs/TXTs
 │ ├── summarizer.py # Summarization logic
 │ ├── qa_engine.py # Challenge evaluation logic
