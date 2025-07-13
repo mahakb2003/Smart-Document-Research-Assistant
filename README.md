@@ -45,11 +45,14 @@ smart-doc-assistant/
 
 2. api.env # Gemini API Key (ignored in Git)
 
-3. backend/
+3. backend
 
 3.1 parser.py # Extract text from PDFs/TXTs
+
 3.2 summarizer.py # Summarization logic
+
 3.3 qa_engine.py # Challenge evaluation logic
+
 3.4 gemini_utils.py # Gemini API functions
 
 4.README.md # This file
