@@ -43,7 +43,7 @@ A GenAI-powered assistant that reads, understands, and interacts with documents 
 smart-doc-assistant/
 1. app.py # Main Streamlit app
 
-2. api.env # Gemini API Key (ignored in Git)
+2. .env # Gemini API Key (ignored in Git)
 
 3. backend
 
