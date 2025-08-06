@@ -1,0 +1,9 @@
+Title: The Role of AI in Healthcare
+
+Artificial Intelligence (AI) is transforming healthcare by enabling faster diagnostics, personalized treatments, and predictive analytics. 
+
+AI-powered tools can help doctors detect diseases such as cancer at early stages. For example, image recognition systems can analyze radiology images with high accuracy.
+
+However, concerns remain about data privacy, transparency of algorithms, and ethical deployment of AI in clinical settings. Future research is needed to establish safe, explainable, and effective AI systems for doctors and patients.
+
+Conclusion: AI will continue to play a significant role in the future of healthcare, but thoughtful integration is critical.
